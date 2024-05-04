@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequence_video", "sequence_video\sequence_video.csproj", "{06930E00-FBCB-46D1-BBFC-2C2E34664070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06930E00-FBCB-46D1-BBFC-2C2E34664070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06930E00-FBCB-46D1-BBFC-2C2E34664070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06930E00-FBCB-46D1-BBFC-2C2E34664070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06930E00-FBCB-46D1-BBFC-2C2E34664070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
